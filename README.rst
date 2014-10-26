@@ -8,9 +8,11 @@ Cookiecutter template for a freezable, vendorized version of Salt (https://githu
 
 Use it now
 ----------
+::
+    $ pip install cookiecutter
+    $ cookiecutter https://github.com/dmckeone/cookiecutter-salt.git
 
-    pip install cookiecutter
-    cookiecutter https://github.com/dmckeone/cookiecutter-salt.git
+You will be asked some basic information so that the salt bundle can be customized to your personal name.
 
 Planned Features
 ----------------
