@@ -9,6 +9,7 @@ WORK IN PROGRESS
 Use it now
 ----------
 ::
+
     $ pip install cookiecutter
     $ cookiecutter https://github.com/dmckeone/cookiecutter-salt.git
 
