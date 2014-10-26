@@ -1,10 +1,10 @@
-======================
+=================
 cookiecutter-salt
-======================
+=================
 
 Cookiecutter template for a freezable, vendorized version of Salt (https://github.com/saltstack/salt)). See https://github.com/dmckeone/cookiecutter-salt.
 
-** WORK IN PROGRESS **
+WORK IN PROGRESS
 
 Use it now
 ----------
