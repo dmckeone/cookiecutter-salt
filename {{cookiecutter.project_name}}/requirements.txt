@@ -1,2 +1,3 @@
 salt
 esky
+appdirs

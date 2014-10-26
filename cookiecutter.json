@@ -1,11 +1,11 @@
 {
-	"full_name": "David McKeone",
-	"email": "davidmckeone@gmail.com",
-	"project_name": "My Salt App",
-	"repo_name": "saltapp",
-	"project_short_description": "My vendorized salt app",
-	"release_date": "2014-10-25",
-	"year": "2014",
-	"version": "0.1.0",
-    "build_type": "both"
+	"author_name": "David McKeone",
+	"author_email": "davidmckeone@gmail.com",
+	"project_name": "TableSalt",
+	"salt_prefix": "tablesalt",
+	"project_short_description": "Salt for the people!",
+    "project_url": "https://github.com/dmckeone/cookiecutter-salt",
+    "year": "2014",
+    "build_type": "default",
+    "modify_minion_name": true
 }
