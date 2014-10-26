@@ -1,11 +1,11 @@
 {
-	"full_name": "Audrey Roy",
-	"email": "audreyr@gmail.com",
-	"github_username": "audreyr",
-	"project_name": "Python Boilerplate",
-	"repo_name": "boilerplate",
-	"project_short_description": "Python Boilerplate contains all the boilerplate you need to create a Python package.",
-	"release_date": "2014-01-11",
+	"full_name": "David McKeone",
+	"email": "davidmckeone@gmail.com",
+	"github_username": "dmckeone",
+	"project_name": "My Salt App",
+	"repo_name": "saltapp",
+	"project_short_description": "My vendorized salt app",
+	"release_date": "2014-10-25",
 	"year": "2014",
 	"version": "0.1.0"
 }

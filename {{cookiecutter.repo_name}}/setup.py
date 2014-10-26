@@ -9,21 +9,16 @@ except ImportError:
 
 
 readme = open('README.rst').read()
-history = open('HISTORY.rst').read().replace('.. :changelog:', '')
 
 requirements = [
-    # TODO: put package requirements here
-]
-
-test_requirements = [
-    # TODO: put package test requirements here
+    'salt'
 ]
 
 setup(
     name='{{ cookiecutter.repo_name }}',
     version='{{ cookiecutter.version }}',
     description='{{ cookiecutter.project_short_description }}',
-    long_description=readme + '\n\n' + history,
+    long_description=readme + '\n\n',
     author='{{ cookiecutter.full_name }}',
     author_email='{{ cookiecutter.email }}',
     url='https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.repo_name }}',
@@ -44,11 +39,6 @@ setup(
         'Natural Language :: English',
         "Programming Language :: Python :: 2",
         'Programming Language :: Python :: 2.6',
-        'Programming Language :: Python :: 2.7',
-        'Programming Language :: Python :: 3',
-        'Programming Language :: Python :: 3.3',
-        'Programming Language :: Python :: 3.4',
-    ],
-    test_suite='tests',
-    tests_require=test_requirements
+        'Programming Language :: Python :: 2.7'
+    ]
 )
