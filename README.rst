@@ -13,7 +13,7 @@ Use it now
     $ pip install cookiecutter
     $ cookiecutter https://github.com/dmckeone/cookiecutter-salt.git
 
-You will be asked some basic information so that the salt bundle can be customized to your personal name.
+You will be asked some basic information so that the salt scripts can be tailored to your vendor name.
 
 Planned Features
 ----------------
